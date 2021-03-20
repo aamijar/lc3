@@ -1,3 +1,3 @@
 # lc3
 
-stash for random lc3 files
+stash of lc3 snippets
